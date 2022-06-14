@@ -4,5 +4,5 @@
 - 알람, 스톱워치, 세계시계 기능을 구현했습니다.
 
 # 시연영상
-
-[![Video Label](http://img.youtube.com/vi/YRziDK4nWC4/0.jpg)](https://www.youtube.com/YRziDK4nWC4)
+(https://www.youtube.com/watch?v=YRziDK4nWC4)
+[![Video Label](http://img.youtube.com/vi/YRziDK4nWC4/0.jpg)](https://www.youtube.com/watch?v=YRziDK4nWC4)
