@@ -3,4 +3,5 @@
 
 <h1>[시연영상]</h1>
 
-[![Video Label](http://img.youtube.com/vi/GPuxQT72S8g/0.jpg)](https://www.youtube.com/GPuxQT72S8g)
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=GPuxQT72S8g&feature=emb_imp_woyt"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
