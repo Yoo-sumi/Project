@@ -4,4 +4,4 @@
 <h1>[시연영상]</h1>
 <h5>(https://www.youtube.com/GPuxQT72S8g](https://www.youtube.com/watch?v=GPuxQT72S8g)</h5>
 
-[![Video Label](http://img.youtube.com/vi/GPuxQT72S8g/0.jpg)](https://www.youtube.com/GPuxQT72S8g)
+[![Video Label](http://img.youtube.com/vi/GPuxQT72S8g/0.jpg)](https://www.youtube.com/watch?v=GPuxQT72S8g)
